@@ -26,7 +26,7 @@ Here is the data used for analysis and a notebook to showcase work related to th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]('link to medium').
+The main findings of the code can be found at the post available [here](https://medium.com/@adlef01/is-the-wine-industry-definitely-established-7f779d078251?sk=74dde4d13ee2186dd85ba7161a77636f).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
